@@ -1,7 +1,5 @@
 ---
 title: QM Persian
-nav_order: 1
-permalink: /index/
 layout: persian
 ---
 
